@@ -1,0 +1,16 @@
+li > a{
+    color: red;
+}
+
+/* Estiliza a tag h4, pois está logo abaixo de h1 */
+h1 + h4{
+    border: 3px dashed;
+}
+
+a[href='/recibo']{
+    color: orange;
+}
+
+li:nth-last-child(odd){
+    color: purple;
+}

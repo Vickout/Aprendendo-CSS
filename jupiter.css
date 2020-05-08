@@ -1,0 +1,27 @@
+h1{
+    font-size: 50px;
+    border: 2px double orange;
+}
+h4{
+    color: white;
+}
+
+li{
+    color: green;
+}
+
+body{
+    background-image: url("https://img.olhardigital.com.br/uploads/acervo_imagens/2018/11/r16x9/20181115111142_1200_675_-_foguete_soyuz.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.moon{
+    color: orange;
+    font-size: 20px;
+}
+
+#europa-text{
+    font-size: 40px;
+    color: orchid;
+}
